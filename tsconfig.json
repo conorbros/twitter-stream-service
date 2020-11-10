@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+      "module": "commonjs",
+      "target": "es2017",
+      "noImplicitAny": true,
+      "outDir": "./dist",
+      "sourceMap": true,
+      "moduleResolution": "node",
+      "resolveJsonModule": true,
+    },
+    "include": ["./src/**/*"],
+  }
+  
+  
+  
